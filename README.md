@@ -17,3 +17,4 @@ R1
 ----
 ip dhcp excluded-address 192.168.1.1 192.168.1.10
 end
+![DNS Lab](https://user-images.githubusercontent.com/106605770/178120685-ce4cb0f7-f19a-48bd-8867-42276dcae42c.PNG)
